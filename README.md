@@ -1,4 +1,4 @@
-# M3-2312
+# Programming a Marantec Remote Control M3-2312
 2 Garage Door Opener Remotes for Marantec Harrison Martin M3-2312
 
 ### Programming with an existing working remote
@@ -13,5 +13,3 @@
 5. Repeat steps 2-4 for each button you wish to program.
 
 ### Programming without existing working remote
-
-7. 
